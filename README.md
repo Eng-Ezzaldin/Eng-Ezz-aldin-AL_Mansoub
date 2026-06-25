@@ -51,71 +51,55 @@
 
 <p align="center">🚀 استكشف مستودعاتي لرؤية شفرة المصدر الحقيقية لهذه الواجهة. لا تتردد في مراسلتي لمناقشة بناء شيء غير تقليدي.</p>
 
+<!-- خط نيون فسفوري متحرك ومتموج يفصل بين الأقسام بشكل مذهل -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,26,45&height=15&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,237,245,255&height=80&section=header&text=✦%20CORE%20CYBER%20MATRIX%20✦&fontSize=22&fontColor=00E5FF&fontAlign=50" width="100%" />
 </p>
-
-## 🛠️ مصفوفة التحكم والقدرات التقنية (Core Capabilities)
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" style="background: #0d1117; border: 1px solid #02569B; border-radius: 10px; padding: 15px;">
-      <p align="center">
-        <img src="https://img.shields.io/badge/MOBILE_ARCHITECTURE-%E2%9A%A1-02569B?style=for-the-badge" alt="Mobile Architecture" />
-      </p>
-      <br>
-      <p align="center">
-        <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter,dart" height="50" /></a>
-      </p>
-      <ul style="color: #E0E0E0; font-family: monospace;">
-        <li><b>Cross-Platform Master:</b> بناء تطبيقات فائقة الأداء ونظيفة (Clean Architecture).</li>
-        <li><b>State Management:</b> خبرة متقدمة في إدارة الحالات المعقدة وسرعة الاستجابة.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="background: #0d1117; border: 1px solid #FF2D20; border-radius: 10px; padding: 15px;">
-      <p align="center">
-        <img src="https://img.shields.io/badge/BACKEND_ECOSYSTEM-%F0%9F%94%A5-FF2D20?style=for-the-badge" alt="Backend Ecosystem" />
-      </p>
-      <br>
-      <p align="center">
-        <a href="https://laravel.com"><img src="https://skillicons.dev/icons?i=laravel,php,mysql" height="50" /></a>
-      </p>
-      <ul style="color: #E0E0E0; font-family: monospace;">
-        <li><b>Robust APIs:</b> بناء خوادم خلفية آمنة، سريعة، وقابلة للتوسع بشكل ضخم.</li>
-        <li><b>Database Optimization:</b> تصميم استعلامات وقواعد بيانات MySQL معقدة وعالية الكفاءة.</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top" style="background: #0d1117; border: 1px solid #00E5FF; border-radius: 10px; padding: 15px;">
-      <p align="center">
-        <img src="https://img.shields.io/badge/CYBER_SECURITY-%F0%9F%94%92-00E5FF?style=for-the-badge" alt="Cyber Security" />
-      </p>
-      <br>
-      <p align="center">
-        <a href="#"><img src="https://skillicons.dev/icons?i=linux,kali,termux" height="50" /></a>
-      </p>
-      <ul style="color: #E0E0E0; font-family: monospace;">
-        <li><b>Secured Penetration:</b> فحص وتحليل الثغرات البرمجية في الـ Source Code.</li>
-        <li><b>Data Encryption:</b> تطبيق بروتوكولات التشفير وحماية البيانات الحساسة.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="background: #0d1117; border: 1px solid #FFFFFF; border-radius: 10px; padding: 15px;">
-      <p align="center">
-        <img src="https://img.shields.io/badge/DEV_ENVIRONMENT-%F0%9F%9B%A0%FE%B8%8F-FFFFFF?style=for-the-badge" alt="Dev Environment" />
-      </p>
-      <br>
-      <p align="center">
-        <a href="https://github.com"><img src="https://skillicons.dev/icons?i=git,github,vscode" height="50" /></a>
-      </p>
-      <ul style="color: #E0E0E0; font-family: monospace;">
-        <li><b>Version Control:</b> إدارة المشاريع البرمجية بكفاءة عالية عبر Git و GitHub.</li>
-        <li><b>Automation:</b> تهيئة بيئات التطوير والإنتاج بسلاسة مطلقة.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <br>
 
+<!-- مصفوفة المهارات الفسفورية المتوهجة -->
+<div align="center">
+  
+  <!-- بطاقة فلاتر: نيون أزرق مشع -->
+  <img src="https://img.shields.io/badge/—%20FLUTTER%20ARCHITECTURE%20—-02569B?style=for-the-badge&logo=flutter&logoColor=00E5FF" />
+  <br>
+  <a href="https://flutter.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" width="120" />
+  </a>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00E5FF&center=true&vCenter=true&width=450&lines=⚡+Clean+Architecture+%26+Solid+Principles;⚡+Advanced+State+Management+(Bloc%2C+Riverpod);⚡+High+Performance+Cross-Platform+Apps" alt="Flutter Skills" />
+
+  <br><br>
+  <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%"></p>
+  <br>
+
+  <!-- بطاقة لارافيل: نيون برتقالي/أحمر متفجر -->
+  <img src="https://img.shields.io/badge/—%20LARAVEL%20BACKEND%20ECOSYSTEM%20—-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <br>
+  <a href="https://laravel.com">
+    <img src="https://skillicons.dev/icons?i=laravel,php,mysql&theme=dark" width="180" />
+  </a>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=500&color=FF2D20&center=true&vCenter=true&width=450&lines=🔥+Secure+RESTful+APIs+Architecting;🔥+Query+Optimization+%26+Database+Shielding;🔥+Robust+MVC+E-Learning+Systems+Backend" alt="Laravel Skills" />
+
+  <br><br>
+  <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%"></p>
+  <br>
+
+  <!-- بطاقة الأمن السيبراني: نيون أخضر/فسفوري مشع جداً -->
+  <img src="https://img.shields.io/badge/—%20CYBERSECURITY%20%26%20ENVIRONMENT%20—-00FF66?style=for-the-badge&logo=kalilinux&logoColor=black" />
+  <br>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=linux,kali,git,github&theme=dark" width="240" />
+  </a>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=500&color=00FF66&center=true&vCenter=true&width=450&lines=🔒+Data+Encryption+%26+Image+Steganography;🔒+Source+Code+Vulnerability+Analysis;🔒+Mobile-Centric+Dev+(Termux+%26+Acode)" alt="Cyber Skills" />
+
+</div>
+
+<br>
+<!-- خط نهاية القسم المتوهج -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,0,237,245&height=10&section=header" width="100%" />
+</p>
