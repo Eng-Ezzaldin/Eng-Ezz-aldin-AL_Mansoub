@@ -1,31 +1,31 @@
-<!-- بنر الواجهة الرئيسي بحواف دائرية وظل خارق -->
+<!-- بنر الواجهة السيبرانية الحية - القوة الخارقة الجديدة -->
 <p align="center">
-  <img src="banner.png" alt="Ezzaldin Almansoub Banner" width="100%" style="border-radius: 15px;">
+  <img src="image_1.png" alt="Ezzaldin Almansoub Hyper-Reactive Dashboard" width="100%" style="border-radius: 12px; box-shadow: 0 0 40px rgba(0, 229, 255, 0.4);">
 </p>
 
-<!-- تأثير النص المتحرك والكتابة التلقائية (Typing Animation) -->
+<!-- تأثير النص المتحرك والكتابة التلقائية النيونية (Typing Animation) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Welcome+to+my+Cyber+Space!;%E2%9A%A1+I'm+Ezzaldin+Almansoub;%F0%9F%93%B1+Flutter+%26+Laravel+Developer;%F0%9F%94%92+Cybersecurity+Enthusiast" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=%E2%9A%A1+SYSTEM+STATUS:+OPERATIONAL;%F0%9F%93%B1+FLUTTER+FULL-STACK+ARCHITECT;%F0%9F%94%A5+LARAVEL+CORE+DEVELOPER;%F0%9F%94%92+CYBERSECURITY+STRATEGIST" alt="Typing Animation" />
   </a>
 </p>
 
-<!-- خط فاصل نيون متدرج ومتحرك يعبر الصفحة -->
+<!-- فاصل نيون دوار ومتحرك (تدرج أزرق/أحمر) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,45&height=60&section=header" width="100%" />
 </p>
 
-<!-- كبسولة الهوية الرقمية بتأثير التوهج النيوني المحاط بـ KBD -->
+<!-- كبسولة الحالة البرمجية المحاطة بحافة مضيئة (Glow Effect) -->
 <div align="center">
-  <table>
+  <table style="border-collapse: separate; border-spacing: 0;">
     <tr>
-      <td align="center" style="background: linear-gradient(45deg, #00E5FF, #FF2D20); padding: 2px; border-radius: 20px;">
-        <table style="background: #0d1117; border-radius: 20px;">
+      <td align="center" style="background: linear-gradient(90deg, #02569B, #FF2D20); padding: 3px; border-radius: 25px;">
+        <table style="background: #0d1117; border-radius: 25px;">
           <tr>
-            <td style="padding: 15px 40px;">
+            <td style="padding: 20px 50px;">
               <samp>
-                <b><font size="5" color="#00E5FF">🚀 CURRENT STATUS:</font></b>
-                <font size="4" color="#FFFFFF"> Elevating code to the next dimension.</font>
+                <b><font size="6" color="#00E5FF">🎯 ACTIVE FOCUS:</font></b>
+                <font size="5" color="#FFFFFF"> Architecting resilient, high-performance, and secure application ecosystems.</font>
               </samp>
             </td>
           </tr>
@@ -36,3 +36,17 @@
 </div>
 
 <br>
+
+<!-- قسم الإحصائيات التفاعلية (GitHub Stats) -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&text_color=00E5FF&icon_color=00E5FF&border_color=02569B" alt="GitHub Stats" width="48%">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&text_color=00E5FF&icon_color=00E5FF&border_color=02569B" alt="Top Languages" width="48%">
+  </a>
+</div>
+
+<br>
+
+<p align="center">🚀 استكشف مستودعاتي لرؤية شفرة المصدر الحقيقية لهذه الواجهة. لا تتردد في مراسلتي لمناقشة بناء شيء غير تقليدي.</p>
