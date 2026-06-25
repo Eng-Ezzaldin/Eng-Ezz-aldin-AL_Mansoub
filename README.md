@@ -182,6 +182,57 @@
 </div>
 
 <br>
+<!-- خط ليزري فسفوري عريض ومتحرك لتمهيد قسم الاتصال والتحكم -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,237,245,255&height=80&section=header&text=📡%20ESTABLISHING%20CONNECTION%20%26%20TERMINAL&fontSize=20&fontColor=00E5FF&fontAlign=50" width="100%" />
+</p>
+
+<br>
+
+<!-- محاكاة واجهة الترمينال الرقمية للتواصل -->
+<div align="center">
+  <table style="border: 2px solid #00E5FF; border-radius: 12px; background-color: #0d1117; width: 85%; font-family: 'Fira Code', monospace;">
+    <tr>
+      <!-- شريط التحكم العلوي للنافذة -->
+      <td style="background-color: #161b22; padding: 10px; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom: 1px solid #30363d;">
+        <span style="color: #ff5555;">●</span> <span style="color: #ffb86c;">●</span> <span style="color: #50fa7b;">●</span> 
+        <span style="color: #8b949e; font-size: 13px; margin-left: 10px;">root@ezzaldin:~# secure-connect.sh</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 25px; color: #FFFFFF;">
+        <p align="left" style="color: #00FF66; margin: 0;">[SUCCESS] Terminal connection secured.</p>
+        <p align="left" style="color: #E0E0E0; margin-top: 5px;">جاهز لبناء أفكار غير تقليدية، تطوير تطبيقات خارقة، أو مناقشة حلول سيبرانية متقدمة. تواصل معي عبر القنوات الآمنة التالية:</p>
+        
+        <br>
+        
+        <!-- أزرار التواصل النيونية الفسفورية والمشعة جداً -->
+        <p align="center">
+          <a href="mailto:your.email@example.com">
+            <img src="https://img.shields.io/badge/SECURE_EMAIL-📡-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="box-shadow: 0px 0px 15px #D14836;"/>
+          </a>
+          &nbsp;&nbsp;
+          <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+            <img src="https://img.shields.io/badge/LINKEDIN_CORE-🔗-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="box-shadow: 0px 0px 15px #0077B5;"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br><br>
+
+<!-- خاتمة الملف المضيئة بتأثير الموجة اللانهائية -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=450&lines=🎯+SYSTEM+SHUTDOWN+...++[ONLINE];🚀+THANK+YOU+FOR+VISITING+MY+CYBER+SPACE!" alt="Footer Animation" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,0,237,245&height=15&section=header" width="100%" />
+</p>
 
 
 
