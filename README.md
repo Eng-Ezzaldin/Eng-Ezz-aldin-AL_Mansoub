@@ -1,31 +1,35 @@
-<!-- بنر الواجهة السيبرانية الحية - القوة الخارقة الجديدة -->
+<!-- ================================================================= -->
+<!-- الجزء الأول: رأس الصفحة الاحترافي والتفاعلي                       -->
+<!-- ================================================================= -->
+
+<!-- بنر الواجهة الرئيسي بحجم كامل ومتناسق -->
 <p align="center">
-  <img src="banner.png" alt="Ezzaldin Almansoub Hyper-Reactive Dashboard" width="100%" style="border-radius: 12px; box-shadow: 0 0 40px rgba(0, 229, 255, 0.4);">
+  <img src="banner.png" alt="Ezzaldin Almansoub Banner" width="100%" style="border-radius: 15px;">
 </p>
 
 <!-- تأثير النص المتحرك والكتابة التلقائية النيونية (Typing Animation) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=%E2%9A%A1+SYSTEM+STATUS:+OPERATIONAL;%F0%9F%93%B1+FLUTTER+FULL-STACK+ARCHITECT;%F0%9F%94%A5+LARAVEL+CORE+DEVELOPER;%F0%9F%94%92+CYBERSECURITY+STRATEGIST" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Welcome+to+my+Cyber+Space!;%E2%9A%A1+I'm+Ezzaldin+Almansoub;%F0%9F%93%B1+Flutter+%26+Laravel+Developer;%F0%9F%94%92+Cybersecurity+Enthusiast" alt="Typing Animation" />
   </a>
 </p>
 
-<!-- فاصل نيون دوار ومتحرك (تدرج أزرق/أحمر) -->
+<!-- خط فاصل نيون متدرج ومتحرك لتمهيد الأقسام -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,45&height=60&section=header" width="100%" />
 </p>
 
-<!-- كبسولة الحالة البرمجية المحاطة بحافة مضيئة (Glow Effect) -->
+<!-- كبسولة الهوية الرقمية بتأثير التوهج النيوني المحاط بـ KBD -->
 <div align="center">
-  <table style="border-collapse: separate; border-spacing: 0;">
+  <table>
     <tr>
-      <td align="center" style="background: linear-gradient(90deg, #02569B, #FF2D20); padding: 3px; border-radius: 25px;">
-        <table style="background: #0d1117; border-radius: 25px;">
+      <td align="center" style="background: linear-gradient(45deg, #00E5FF, #FF2D20); padding: 2px; border-radius: 20px;">
+        <table style="background: #0d1117; border-radius: 20px;">
           <tr>
-            <td style="padding: 20px 50px;">
+            <td style="padding: 15px 40px;">
               <samp>
-                <b><font size="6" color="#00E5FF">🎯 ACTIVE FOCUS:</font></b>
-                <font size="5" color="#FFFFFF"> Architecting resilient, high-performance, and secure application ecosystems.</font>
+                <b><font size="5" color="#00E5FF">🚀 CURRENT STATUS:</font></b>
+                <font size="4" color="#FFFFFF"> Elevating code to the next dimension.</font>
               </samp>
             </td>
           </tr>
@@ -37,19 +41,9 @@
 
 <br>
 
-<!-- قسم الإحصائيات التفاعلية (GitHub Stats) -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&text_color=00E5FF&icon_color=00E5FF&border_color=02569B" alt="GitHub Stats" width="48%">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&text_color=00E5FF&icon_color=00E5FF&border_color=02569B" alt="Top Languages" width="48%">
-  </a>
-</div>
-
-<br>
-
-<p align="center">🚀 استكشف مستودعاتي لرؤية شفرة المصدر الحقيقية لهذه الواجهة. لا تتردد في مراسلتي لمناقشة بناء شيء غير تقليدي.</p>
+<!-- ================================================================= -->
+<!-- الجزء الثاني: مصفوفة التقنيات والمهارات الفسفورية                  -->
+<!-- ================================================================= -->
 
 <!-- خط نيون فسفوري متحرك ومتموج يفصل بين الأقسام بشكل مذهل -->
 <p align="center">
@@ -58,7 +52,6 @@
 
 <br>
 
-<!-- مصفوفة المهارات الفسفورية المتوهجة -->
 <div align="center">
   
   <!-- بطاقة فلاتر: نيون أزرق مشع -->
@@ -104,7 +97,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,0,237,245&height=10&section=header" width="100%" />
 </p>
 
-<!-- خط نيون فسفوري ليزري متموج لتمهيد قسم العمليات البرمجية -->
+<!-- ================================================================= -->
+<!-- الجزء الثالث: لوحة مراقبة المشاريع والإحصائيات                   -->
+<!-- ================================================================= -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,255,45,0&height=80&section=header&text=🌐%20LIVE%20OPERATIONS%20%26%20CYBER%20PROJECTS&fontSize=20&fontColor=ffffff&fontAlign=50" width="100%" />
 </p>
@@ -172,7 +168,6 @@
 </p>
 
 <div align="center">
-  <!-- إحصائيات GitHub النيونية المتفاعلة كلياً متناسقة مع لغة التصميم المتفجرة -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&text_color=00E5FF&icon_color=FF2D20&title_color=00E5FF&border_color=02569B&bg_color=0d1117" alt="GitHub Stats" width="49%">
   </a>
@@ -182,7 +177,11 @@
 </div>
 
 <br>
-<!-- خط ليزري فسفوري عريض ومتحرك لتمهيد قسم الاتصال والتحكم -->
+
+<!-- ================================================================= -->
+<!-- الجزء الرابع: واجهة التحكم والاتصال (Terminal & Footer)           -->
+<!-- ================================================================= -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,237,245,255&height=80&section=header&text=📡%20ESTABLISHING%20CONNECTION%20%26%20TERMINAL&fontSize=20&fontColor=00E5FF&fontAlign=50" width="100%" />
 </p>
@@ -204,7 +203,20 @@
         <p align="left" style="color: #00FF66; margin: 0;">[SUCCESS] Terminal connection secured.</p>
         <p align="left" style="color: #E0E0E0; margin-top: 5px;">جاهز لبناء أفكار غير تقليدية، تطوير تطبيقات خارقة، أو مناقشة حلول سيبرانية متقدمة. تواصل معي عبر القنوات الآمنة التالية:</p>
         
+        <br>
         
+        <!-- أزرار التواصل النيونية الفسفورية والمشعة جداً -->
+        <p align="center">
+          <a href="mailto:your.email@example.com">
+            <img src="https://img.shields.io/badge/SECURE_EMAIL-📡-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="box-shadow: 0px 0px 15px #D14836;"/>
+          </a>
+          &nbsp;&nbsp;
+          <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+            <img src="https://img.shields.io/badge/LINKEDIN_CORE-🔗-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="box-shadow: 0px 0px 15px #0077B5;"/>
+          </a>
+        </p>
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -220,6 +232,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,0,237,245&height=15&section=header" width="100%" />
 </p>
-
-
-
