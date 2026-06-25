@@ -1,41 +1,37 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Ezz Aldin Cyber UI Banner" />
+</p>
+
 <div align="center">
-  <!-- ترحيب علوي -->
-  <p align="center">🪐 <b>WELCOME TO MY DIGITAL UNIVERSE</b> 🪐</p>
-  
-  <br />
 
-  <!-- الاسم والهوية البصرية الأساسية -->
-  <h1>HEY, I'M <span style="color: #9d4edd;">EZZ ALDIN</span></h1>
-  
-  <h3>✨ FLUTTER DEVELOPER • LARAVEL BACKEND DEVELOPER • CYBERSECURITY LEARNER ✨</h3>
-  
-  <p>🚀 <i>I build <b>elegant</b> apps, <b>powerful</b> backends, and <b>secure</b> digital solutions.</i> 🚀</p>
+# ⚡ EZZ ALDIN ⚡
 
-  <br />
+### Flutter Developer • Laravel Backend Developer • Cybersecurity Learner
 
-  <!-- أزرار التفاعل السريع -->
-  <p>
-    <a href="https://github.com/Eng-Ezzaldin?tab=repositories"><img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECTS-0052cc?style=for-the-badge&logoColor=white" alt="View Projects"/></a>
-    <a href="#technologies--tools"><img src="https://img.shields.io/badge/💻%20EXPLORE%20CODE-7b2cbf?style=for-the-badge&logoColor=white" alt="Explore Code"/></a>
-    <a href="mailto:ezzaldin.business@gmail.com"><img src="https://img.shields.io/badge/✉️%20CONTACT%20ME-00b4d8?style=for-the-badge&logoColor=white" alt="Contact Me"/></a>
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Digital+Universe;I+build+elegant+apps+with+Flutter;I+craft+powerful+backends+with+Laravel;I+explore+Cybersecurity+like+a+digital+guardian;Code+%E2%9C%A6+Build+%E2%9C%A6+Secure+%E2%9C%A6+Repeat" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Eng-Ezzaldin&label=Visitors&color=00D9FF&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Building%20The%20Future-7F3CFF?style=for-the-badge&logo=rocket&logoColor=white" />
+
 </div>
 
 ---
 
-### 💻 Developer.exe
-```javascript
+## 🧬 Developer Profile
+
+```js
 const developer = {
   name: "Ezz Aldin",
-  focus: ["Flutter", "Laravel"],
-  mission: "Turning ideas into reality",
-  learning: "Cybersecurity",
-  code: "Clean, Efficient, Scalable",
-  goal: "Make impact & keep learning",
+  focus: ["Flutter", "Laravel", "Cybersecurity"],
+  mission: "Turning ideas into real digital products",
+  code: ["Clean", "Efficient", "Scalable"],
+  mindset: "Learn. Build. Improve. Repeat.",
   status: "Building the future 🚀"
 };
 
-while(alive) {
+while (alive) {
   code();
   learn();
   build();
