@@ -204,20 +204,7 @@
         <p align="left" style="color: #00FF66; margin: 0;">[SUCCESS] Terminal connection secured.</p>
         <p align="left" style="color: #E0E0E0; margin-top: 5px;">جاهز لبناء أفكار غير تقليدية، تطوير تطبيقات خارقة، أو مناقشة حلول سيبرانية متقدمة. تواصل معي عبر القنوات الآمنة التالية:</p>
         
-        <br>
         
-        <!-- أزرار التواصل النيونية الفسفورية والمشعة جداً -->
-        <p align="center">
-          <a href="mailto:your.email@example.com">
-            <img src="https://img.shields.io/badge/SECURE_EMAIL-📡-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="box-shadow: 0px 0px 15px #D14836;"/>
-          </a>
-          &nbsp;&nbsp;
-          <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-            <img src="https://img.shields.io/badge/LINKEDIN_CORE-🔗-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="box-shadow: 0px 0px 15px #0077B5;"/>
-          </a>
-        </p>
-      </td>
-    </tr>
   </table>
 </div>
 
