@@ -7,7 +7,17 @@
 <h3 align="center">
 Flutter & Laravel Developer • Cybersecurity Learner
 </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7F3CFF&center=true&vCenter=true&width=700&lines=Flutter+%26+Laravel+Developer;Cybersecurity+Learner;Building+Real+Projects;Code+%E2%80%A2+Build+%E2%80%A2+Secure" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7F3CFF&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 <p align="center">
 Passionate about building modern applications, learning cybersecurity,
 and creating clean, scalable software.
