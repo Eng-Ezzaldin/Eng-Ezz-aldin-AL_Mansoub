@@ -1,6 +1,6 @@
 <!-- بنر الواجهة السيبرانية الحية - القوة الخارقة الجديدة -->
 <p align="center">
-  <img src="image_1.png" alt="Ezzaldin Almansoub Hyper-Reactive Dashboard" width="100%" style="border-radius: 12px; box-shadow: 0 0 40px rgba(0, 229, 255, 0.4);">
+  <img src="banner.png" alt="Ezzaldin Almansoub Hyper-Reactive Dashboard" width="100%" style="border-radius: 12px; box-shadow: 0 0 40px rgba(0, 229, 255, 0.4);">
 </p>
 
 <!-- تأثير النص المتحرك والكتابة التلقائية النيونية (Typing Animation) -->
