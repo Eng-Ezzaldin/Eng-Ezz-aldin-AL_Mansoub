@@ -9,7 +9,7 @@ Flutter & Laravel Developer • Cybersecurity Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7F3CFF&center=true&vCenter=true&width=800&lines=Flutter+%26+Laravel+Developer;Cybersecurity+Learner;Building+Real+Projects;Code+%E2%80%A2+Build+%E2%80%A2+Secure;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=7F3CFF&center=true&vCenter=true&width=850&lines=Flutter+%26+Laravel+Developer;Cybersecurity+Learner;Building+Real+Projects;Code+%E2%80%A2+Build+%E2%80%A2+Secure;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -62,10 +62,18 @@ Flutter & Laravel Developer • Cybersecurity Learner
 
 ---
 
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-Ezzaldin&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Eng-Ezzaldin/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Eng-Ezzaldin/Eng-Ezzaldin/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
