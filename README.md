@@ -1,43 +1,36 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Ezz Aldin Banner" />
-</p>
+<!-- ===================== EZZ OS :: BOOT SCREEN ===================== -->
 
 <div align="center">
 
-# ⚡ Ezz Aldin ⚡
-
-### Software Engineering Student • Full-Stack Developer in Progress
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Laravel+Backend+Developer;Cybersecurity+Learner;AI+Explorer;Code+%E2%80%A2+Build+%E2%80%A2+Secure+%E2%80%A2+Repeat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=1200&pause=400&color=00E5FF&center=true&vCenter=true&width=900&lines=%24+boot+EZZ_OS;Initializing+Developer+Environment...;Authenticating+Identity...;Access+Granted." />
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-FLUTTER%20%2B%20LARAVEL-6D5DF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MISSION-BUILD%20REAL%20PROJECTS-00E5FF?style=for-the-badge&labelColor=030712" />
+```txt
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║                         E Z Z   O S                          ║
+║                                                              ║
+║              The Developer Operating System                  ║
+║                                                              ║
+╠══════════════════════════════════════════════════════════════╣
+║  STATUS        : ONLINE                                      ║
+║  USER          : Ezz Aldin                                   ║
+║  ROLE          : Software Engineering Student                ║
+║  MODE          : Full-Stack Developer in Progress            ║
+║  CORE          : Flutter • Laravel • Cybersecurity • AI      ║
+║  CONTACT       : ezzman1234567890@gmail.com                  ║
+╠══════════════════════════════════════════════════════════════╣
+║  Loading Profile      ████████████████████████ 100%          ║
+║  Loading Projects     ████████████████████░░░░  85%          ║
+║  Loading Skills       █████████████████████░░░  90%          ║
+║  Loading Mission      ████████████████████████ 100%          ║
+╚══════════════════════════════════════════════════════════════╝
 
-<br><br>
+<br><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=700&color=A855F7&center=true&vCenter=true&width=900&lines=%24+whoami;%3E+Ezz+Aldin;%24+mission;%3E+Build+beautiful%2C+useful%2C+secure+digital+products;%24+enter;%3E+Welcome+to+my+Digital+Command+Center" /><br><a href="https://github.com/Eng-Ezzaldin?tab=repositories">
+  <img src="https://img.shields.io/badge/ENTER%20COMMAND%20CENTER-050816?style=for-the-badge&logo=github&logoColor=00E5FF" />
+</a><a href="mailto:ezzman1234567890@gmail.com">
+  <img src="https://img.shields.io/badge/OPEN%20COMMUNICATION%20GATEWAY-050816?style=for-the-badge&logo=gmail&logoColor=A855F7" />
+</a><br><br>
 
-<a href="https://github.com/Eng-Ezzaldin?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20Projects-030712?style=for-the-badge&logo=github&logoColor=00E5FF" />
-</a>
-<a href="mailto:ezzman1234567890@gmail.com">
-  <img src="https://img.shields.io/badge/Contact%20Me-030712?style=for-the-badge&logo=gmail&logoColor=A855F7" />
-</a>
-
-</div>
-
----
-
-## ◈ Digital Identity
-
-```js
-const EzzAldin = {
-  role: "Software Engineering Student",
-  path: "Full-Stack Developer in Progress",
-  focus: ["Flutter", "Laravel", "Cybersecurity", "AI"],
-  tools: ["VS Code", "Termux", "Acode", "GitHub"],
-  email: "ezzman1234567890@gmail.com",
-  mission: "Build beautiful, useful, and secure digital products.",
-  mindset: "Code. Build. Learn. Repeat."
-};
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6D5DF6,100:A855F7&height=2" /></div><!-- =================== END :: EZZ OS BOOT SCREEN =================== -->
