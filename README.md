@@ -13,7 +13,7 @@ Flutter & Laravel Developer • Cybersecurity Learner
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7F3CFF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Eng-Ezzaldin&label=Profile%20Views&color=7F3CFF&style=for-the-badge" />
 </p>
 
 ---
@@ -40,7 +40,7 @@ Flutter & Laravel Developer • Cybersecurity Learner
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Eng-Ezzaldin&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -48,8 +48,8 @@ Flutter & Laravel Developer • Cybersecurity Learner
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eng-Ezzaldin&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Ezzaldin&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ Flutter & Laravel Developer • Cybersecurity Learner
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Ezzaldin&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -65,7 +65,7 @@ Flutter & Laravel Developer • Cybersecurity Learner
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Eng-Ezzaldin/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ Flutter & Laravel Developer • Cybersecurity Learner
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Eng-Ezzaldin">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
