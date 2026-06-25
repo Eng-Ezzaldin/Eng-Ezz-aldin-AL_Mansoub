@@ -21,7 +21,7 @@
 <a href="https://github.com/Eng-Ezzaldin?tab=repositories">
   <img src="https://img.shields.io/badge/Explore%20Projects-050816?style=for-the-badge&logo=github&logoColor=00D9FF" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:ezzman1234567890@gmail.com">
   <img src="https://img.shields.io/badge/Contact%20Me-050816?style=for-the-badge&logo=gmail&logoColor=7F3CFF" />
 </a>
 
