@@ -50,3 +50,72 @@
 <br>
 
 <p align="center">🚀 استكشف مستودعاتي لرؤية شفرة المصدر الحقيقية لهذه الواجهة. لا تتردد في مراسلتي لمناقشة بناء شيء غير تقليدي.</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,26,45&height=15&section=header" width="100%" />
+</p>
+
+## 🛠️ مصفوفة التحكم والقدرات التقنية (Core Capabilities)
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" style="background: #0d1117; border: 1px solid #02569B; border-radius: 10px; padding: 15px;">
+      <p align="center">
+        <img src="https://img.shields.io/badge/MOBILE_ARCHITECTURE-%E2%9A%A1-02569B?style=for-the-badge" alt="Mobile Architecture" />
+      </p>
+      <br>
+      <p align="center">
+        <a href="https://flutter.dev"><img src="https://skillicons.dev/icons?i=flutter,dart" height="50" /></a>
+      </p>
+      <ul style="color: #E0E0E0; font-family: monospace;">
+        <li><b>Cross-Platform Master:</b> بناء تطبيقات فائقة الأداء ونظيفة (Clean Architecture).</li>
+        <li><b>State Management:</b> خبرة متقدمة في إدارة الحالات المعقدة وسرعة الاستجابة.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="background: #0d1117; border: 1px solid #FF2D20; border-radius: 10px; padding: 15px;">
+      <p align="center">
+        <img src="https://img.shields.io/badge/BACKEND_ECOSYSTEM-%F0%9F%94%A5-FF2D20?style=for-the-badge" alt="Backend Ecosystem" />
+      </p>
+      <br>
+      <p align="center">
+        <a href="https://laravel.com"><img src="https://skillicons.dev/icons?i=laravel,php,mysql" height="50" /></a>
+      </p>
+      <ul style="color: #E0E0E0; font-family: monospace;">
+        <li><b>Robust APIs:</b> بناء خوادم خلفية آمنة، سريعة، وقابلة للتوسع بشكل ضخم.</li>
+        <li><b>Database Optimization:</b> تصميم استعلامات وقواعد بيانات MySQL معقدة وعالية الكفاءة.</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top" style="background: #0d1117; border: 1px solid #00E5FF; border-radius: 10px; padding: 15px;">
+      <p align="center">
+        <img src="https://img.shields.io/badge/CYBER_SECURITY-%F0%9F%94%92-00E5FF?style=for-the-badge" alt="Cyber Security" />
+      </p>
+      <br>
+      <p align="center">
+        <a href="#"><img src="https://skillicons.dev/icons?i=linux,kali,termux" height="50" /></a>
+      </p>
+      <ul style="color: #E0E0E0; font-family: monospace;">
+        <li><b>Secured Penetration:</b> فحص وتحليل الثغرات البرمجية في الـ Source Code.</li>
+        <li><b>Data Encryption:</b> تطبيق بروتوكولات التشفير وحماية البيانات الحساسة.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="background: #0d1117; border: 1px solid #FFFFFF; border-radius: 10px; padding: 15px;">
+      <p align="center">
+        <img src="https://img.shields.io/badge/DEV_ENVIRONMENT-%F0%9F%9B%A0%FE%B8%8F-FFFFFF?style=for-the-badge" alt="Dev Environment" />
+      </p>
+      <br>
+      <p align="center">
+        <a href="https://github.com"><img src="https://skillicons.dev/icons?i=git,github,vscode" height="50" /></a>
+      </p>
+      <ul style="color: #E0E0E0; font-family: monospace;">
+        <li><b>Version Control:</b> إدارة المشاريع البرمجية بكفاءة عالية عبر Git و GitHub.</li>
+        <li><b>Automation:</b> تهيئة بيئات التطوير والإنتاج بسلاسة مطلقة.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
